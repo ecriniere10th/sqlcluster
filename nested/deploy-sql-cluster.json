@@ -71,7 +71,7 @@
 
     "windowsImageOffer": {
       "type": "string",
-      "defaultValue": "SQL2014SP1-WS2012R2"
+      "defaultValue": "SQL2012SP3-WS2012R2"
     },
 
     "windowsImageSKU": {
