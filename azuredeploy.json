@@ -82,7 +82,7 @@
       "metadata": {
         "description": "DNS domain name for existing Active Directory domain"
       },
-      "defaultValue": "contoso.com"
+      "defaultValue": "domainname.com"
     },
 
     "adminUsername": {
@@ -141,7 +141,7 @@
       "metadata": {
         "description": "IP address of ILB for the SQL Server AlwaysOn listener to be created"
       },
-      "defaultValue": "10.0.1.10"
+      "defaultValue": "10.7.4.10"
     },
 
     "assetLocation": {
