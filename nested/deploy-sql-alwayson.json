@@ -150,7 +150,7 @@
 						"sqlAlwaysOnEndpointName": "[parameters('sqlAlwaysOnEndpointName')]",
 						"sqlAlwaysOnAvailabilityGroupName": "[parameters('sqlAlwaysOnAvailabilityGroupName1')]",
 						"sqlAlwaysOnAvailabilityGroupListenerName": "[parameters('sqlAlwaysOnAvailabilityGroupListenerName1')]",
-						"sqlAlwaysOnAvailabilityGroupListenerPort": 1433,
+						"sqlAlwaysOnAvailabilityGroupListenerPort": 9032,
 						"lbName": "[parameters('sqlLBName')]",
 						"lbAddress": "[parameters('sqlLBIPAddress')]",
 						"primaryReplica": "[concat(parameters('sqlNamePrefix'),'1')]",
