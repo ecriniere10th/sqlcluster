@@ -201,8 +201,8 @@
 							"id": "[variables('sqlLBProbeID1')]"
 						},
 						"protocol": "Tcp",
-						"frontendPort": 1433,
-						"backendPort": 1433,
+						"frontendPort": 9032,
+						"backendPort": 9032,
 						"enableFloatingIP": true
 						}
 					}
